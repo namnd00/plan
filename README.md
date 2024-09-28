@@ -96,69 +96,87 @@ Dưới đây là **checklist** chi tiết và **công thức tính toán** hỗ
 ### **A. Tính Toán Ngân Sách Khởi Nghiệp**
 
 1. **Chi phí thuê mặt bằng (Tháng)**
+
    $$
    \text{Tổng chi phí thuê} = \text{Giá thuê hàng tháng} \times \text{Số tháng thuê trước khi mở cửa}
    $$
+
    *Ví dụ:* Nếu giá thuê hàng tháng là 50 triệu VNĐ và bạn dự định thuê 6 tháng trước khi mở cửa:
+
    $$
    50\, \text{triệu VNĐ} \times 6 = 300\, \text{triệu VNĐ}
    $$
 
 2. **Chi phí thiết kế và xây dựng**
+
    $$
    \text{Tổng chi phí xây dựng} = \text{Chi phí thiết kế} + \text{Chi phí xây dựng}
    $$
+
    *Ví dụ:* Chi phí thiết kế là 100 triệu VNĐ và chi phí xây dựng là 500 triệu VNĐ:
+
    $$
    100\, \text{triệu VNĐ} + 500\, \text{triệu VNĐ} = 600\, \text{triệu VNĐ}
    $$
 
 3. **Chi phí mua sắm thiết bị**
+
    $$
    \text{Tổng chi phí thiết bị} = \text{Giá cung và mũi tên} + \text{Giá thiết bị an toàn} + \text{Giá mục tiêu và vật liệu luyện tập} + \text{Giá thiết bị khác}
    $$
+
    *Ví dụ:* 
    - Cung và mũi tên: 200 triệu VNĐ
    - Thiết bị an toàn: 100 triệu VNĐ
    - Mục tiêu và vật liệu luyện tập: 150 triệu VNĐ
    - Thiết bị khác: 50 triệu VNĐ
+
    $$
    200 + 100 + 150 + 50 = 500\, \text{triệu VNĐ}
    $$
 
 4. **Chi phí pháp lý và giấy phép**
+
    $$
    \text{Tổng chi phí pháp lý} = \text{Phí đăng ký kinh doanh} + \text{Phí xin giấy phép} + \text{Chi phí tư vấn pháp lý (nếu có)}
    $$
+
    *Ví dụ:* 
    - Đăng ký kinh doanh: 10 triệu VNĐ
    - Xin giấy phép: 20 triệu VNĐ
    - Tư vấn pháp lý: 15 triệu VNĐ
+
    $$
    10 + 20 + 15 = 45\, \text{triệu VNĐ}
    $$
 
 5. **Chi phí marketing và quảng bá**
+
    $$
    \text{Tổng chi phí marketing} = \text{Thiết kế website} + \text{Quảng cáo trực tuyến} + \text{In ấn tờ rơi, poster} + \text{Tổ chức sự kiện khai trương}
    $$
+
    *Ví dụ:* 
    - Thiết kế website: 30 triệu VNĐ
    - Quảng cáo trực tuyến: 50 triệu VNĐ
    - In ấn: 20 triệu VNĐ
    - Sự kiện khai trương: 30 triệu VNĐ
+
    $$
    30 + 50 + 20 + 30 = 130\, \text{triệu VNĐ}
    $$
 
 6. **Chi phí nhân sự trước khi mở cửa**
+
    $$
    \text{Tổng chi phí nhân sự} = \text{Lương nhân viên} \times \text{Số nhân viên} \times \text{Số tháng}
    $$
+
    *Ví dụ:* 
    - Lương trung bình mỗi nhân viên: 10 triệu VNĐ/tháng
    - Số nhân viên: 5
    - Số tháng: 6
+
    $$
    10 \times 5 \times 6 = 300\, \text{triệu VNĐ}
    $$
@@ -187,27 +205,33 @@ Dưới đây là **checklist** chi tiết và **công thức tính toán** hỗ
    $$
    \text{Chi phí bảo trì} = \text{Tỷ lệ bảo trì thiết bị} \times \text{Giá trị thiết bị}
    $$
+
    *Ví dụ:* Nếu tỷ lệ bảo trì là 5%/năm cho thiết bị trị giá 500 triệu VNĐ:
+
    $$
    \frac{5}{100} \times 500 = 25\, \text{triệu VNĐ/năm} \approx 2.08\, \text{triệu VNĐ/tháng}
    $$
 
 4. **Chi phí marketing liên tục**
+
    $$
    \text{Chi phí marketing hàng tháng} = \text{Ngân sách marketing hàng tháng}
    $$
 
 5. **Chi phí tiện ích (điện, nước, internet)**
+
    $$
    \text{Chi phí tiện ích} = \text{Tổng chi phí điện} + \text{Tổng chi phí nước} + \text{Chi phí internet}
    $$
 
 6. **Chi phí vận hành khác**
+
    $$
    \text{Chi phí khác} = \text{Vệ sinh, bảo hiểm, và các chi phí phụ khác}
    $$
 
 7. **Tổng chi phí vận hành hàng tháng**
+
    $$
    \text{Tổng chi phí vận hành} = \text{Chi phí thuê} + \text{Chi phí nhân sự} + \text{Chi phí bảo trì} + \text{Chi phí marketing} + \text{Chi phí tiện ích} + \text{Chi phí vận hành khác}
    $$
@@ -215,21 +239,25 @@ Dưới đây là **checklist** chi tiết và **công thức tính toán** hỗ
 ### **C. Tính Toán Doanh Thu Dự Kiến**
 
 1. **Doanh thu từ thuê cung**
+
    $$
    \text{Doanh thu thuê cung} = \text{Số lượng khách thuê cung} \times \text{Giá thuê cung mỗi lần}
    $$
 
 2. **Doanh thu từ bài học bắn cung**
+
    $$
    \text{Doanh thu bài học} = \text{Số lượng học viên} \times \text{Giá bài học mỗi học viên}
    $$
 
 3. **Doanh thu từ sự kiện**
+
    $$
    \text{Doanh thu sự kiện} = \text{Số lượng sự kiện} \times \text{Doanh thu mỗi sự kiện}
    $$
 
 4. **Tổng doanh thu hàng tháng**
+
    $$
    \text{Tổng doanh thu} = \text{Doanh thu thuê cung} + \text{Doanh thu bài học} + \text{Doanh thu sự kiện}
    $$
@@ -237,21 +265,25 @@ Dưới đây là **checklist** chi tiết và **công thức tính toán** hỗ
 ### **D. Tính Toán Điểm Hoàn Hồi Vốn (Break-Even Point)**
 
 1. **Tổng chi phí khởi nghiệp**
+
    $$
    \text{Tổng chi phí khởi nghiệp} = \text{Tổng ngân sách khởi nghiệp}
    $$
 
 2. **Lợi nhuận hàng tháng**
+
    $$
    \text{Lợi nhuận hàng tháng} = \text{Tổng doanh thu hàng tháng} - \text{Tổng chi phí vận hành hàng tháng}
    $$
 
 3. **Thời gian hoàn vốn**
+
    $$
    \text{Thời gian hoàn vốn (tháng)} = \frac{\text{Tổng chi phí khởi nghiệp}}{\text{Lợi nhuận hàng tháng}}
    $$
 
    *Ví dụ:* Nếu tổng chi phí khởi nghiệp là 1.275 triệu VNĐ và lợi nhuận hàng tháng là 127.5 triệu VNĐ:
+   
    $$
    \frac{1275}{127.5} = 10\, \text{tháng}
    $$
